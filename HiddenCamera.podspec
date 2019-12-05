@@ -13,6 +13,8 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/ashwinflx/HiddenFaceCapture.git", :tag => "1.0.0" }
   spec.source_files  = "HiddenCamera"
   spec.swift_version = "4.2"
+  spec.static_framework = true
   spec.dependency 'OpenCV2', '~> 4.1.1'
+  
 
 end
