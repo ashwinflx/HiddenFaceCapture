@@ -3,9 +3,9 @@ HiddenCamera help to take selfie of user while actively using the app
 
 *****Steps to use Hidden Camera*****
 
-- Add pod 'HiddenCamera', :git => 'https://github.com/ashwinflx/HiddenCamera.git', :tag => '1.0.2' to podFile of the project.
+- Add pod 'HiddenCamera', :git => 'https://github.com/ashwinflx/HiddenFaceCapture/blob/master/README.md', :tag => '1.0.2' to podFile of the project.
 
-    'HiddenCamera', :git => 'https://github.com/ashwinflx/HiddenCamera.git', :tag => '1.0.2'
+    'HiddenCamera', :git => 'https://github.com/ashwinflx/HiddenFaceCapture/blob/master/README.md', :tag => '1.0.2'
     
 - Import HiddenCamera module to file were we want to use hidden camera.
 
